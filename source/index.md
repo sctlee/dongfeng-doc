@@ -5,7 +5,7 @@ language_tabs:
   - shell
 
 toc_footers:
-  - <a href='https://dashboard.daocloud.io'>控制台</a>
+  - <a href=''>控制台</a>
 
 includes:
   - errors
