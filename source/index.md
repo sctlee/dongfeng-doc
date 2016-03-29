@@ -147,7 +147,7 @@ putTime | 上传时间
 
 # 天气服务 weather
 
-## 获取网盘文件列表
+## 查询天气
 
 ```shell
 curl "http://dongfeng-demo-dongfeng-proxy.daoapp.io/weather?q=Shanghai&units=metric"
