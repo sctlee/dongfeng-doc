@@ -1,0 +1,6 @@
+image: daocloud/ci-python:2.7
+env:
+  - TEST=true
+script:
+  - py.test tests/app_runtime
+
