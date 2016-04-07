@@ -1,4 +1,4 @@
-image: daocloud/ci-python:2.7
+image: daocloud/ci-python:3.4
 env:
   - TEST=true
 script:
