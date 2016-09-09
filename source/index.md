@@ -1,5 +1,5 @@
 ---
-title: 东风 开放 API 1.0
+title: 东风 开放 API 1.5
 
 language_tabs:
   - shell
@@ -15,7 +15,7 @@ search: true
 
 # 介绍
 
-欢迎使用 东风 开放 API 1.0
+欢迎使用 东风 开放 API 1.5
 
 
 # 认证
