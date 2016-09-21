@@ -1,5 +1,5 @@
 ---
-title: 东风技术中心 开放 API 2.0
+title: 东风 开放 API 2.0
 
 language_tabs:
   - shell
